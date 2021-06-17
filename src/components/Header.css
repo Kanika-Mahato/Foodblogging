@@ -1,0 +1,18 @@
+.socialicons ul li{
+    text-decoration: none;
+    display: inline;
+    padding-right: 5% ;
+    margin-top: 0.5%;
+   
+}
+.socialicons ul{
+   margin-left: 40%;
+   margin-bottom: 0;
+   padding: 0.5% 0;
+  
+}
+.socialicons{
+    top:0;
+    background-color: #cfd4d1;
+   
+}

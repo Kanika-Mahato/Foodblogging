@@ -1,0 +1,84 @@
+.trending{
+    text-align: center;
+}
+.mainBox{
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.trends h2{
+    padding:2%;
+    font-family: 'Viaoda Libre', cursive;
+}
+.trenditems{
+    text-align: left;
+}
+.trenditems p{
+    font-size: 12px;
+}
+.trenditems img{
+    width:500px;
+    height:250px;
+}
+.about{
+    margin-right: 2%;
+    width:480px;
+    height:1150px;
+    background-color: rgb(216, 210, 213);
+}
+.aboutus h2{
+    padding:2%;
+    font-family: 'Viaoda Libre', cursive;
+}
+.comment{
+    display: flex;
+    flex-direction: horizontal;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+    padding-left: 40%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    
+}
+.right span i{
+    font-size: 20px;
+    color: red;
+}
+.about img{
+   margin-top: 6%;
+    width: 100px;
+    height:100px;
+    border-radius: 30%;
+}
+.about p{
+    padding:5% ;
+    text-align: justify;
+}
+.about q{
+    text-align: justify;
+}
+.about{
+    padding:10%;
+}
+.about hr{
+    border:1px solid black;
+}
+.subscription{
+    margin: 15% 5%;
+    padding:5%;
+    background-color: rgba(100, 102, 98, 0.603);
+}
+.subscription .sub{
+    background-color: black;
+   border: 2px solid black;
+    color: blanchedalmond;
+}
+.subscription input{
+    margin-right: 2%;
+}
+.more{
+    margin-bottom: 5%;
+}

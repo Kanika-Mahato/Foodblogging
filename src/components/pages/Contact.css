@@ -1,0 +1,13 @@
+.container .row .form-col form{
+    margin: 5%;
+}
+.contactback{
+    background-image: url(../../img/contactbg1.jpg);
+    background-repeat: no-repeat;
+    margin-top: 3%;
+    background-size: 100% 100%;
+    z-index: -1;
+}
+.form-col{
+    margin:0 auto;
+}

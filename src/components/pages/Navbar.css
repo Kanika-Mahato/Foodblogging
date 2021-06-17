@@ -1,0 +1,15 @@
+.navbar ul li .list{
+    text-decoration: none;
+    color: black;
+}
+.navbar ul li{
+ padding-left: 5%;
+}
+.navbar ul li .list:hover{
+    color:grey;
+}
+.navbar{
+    top:0px;
+    position:sticky;
+}
+
